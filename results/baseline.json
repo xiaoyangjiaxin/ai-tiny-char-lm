@@ -1,0 +1,39 @@
+{
+  "run_name": "baseline",
+  "vocab_size": 140,
+  "text_length": 321,
+  "batch_size": 32,
+  "max_iters": 500,
+  "learning_rate": 1.0,
+  "generate_length": 120,
+  "initial_loss": 4.9425,
+  "final_loss": 2.7345,
+  "before_training_text": "\n率最每中预掩需n地划的用广.s4能低M助9预准辅每搬工汉汉 说变助地汉可可6型k要分重每的都习搬1I变每缀代用个\n4数式们\n搬练8生最帮2路工在观能现缀P直出解变4型的当直0s搬后每重概型或说母算使用e的计语M缀L工每帮划每概数我点地8或",
+  "after_training_text": "\n当念M标0会学言需需要低2出出率助计地址生成代汉据L字观不子分接面准缀缀人用验释是CIR整在测确t训At程、个需语言toss面o是 址92D路是根使生成工率观重，当0。\n入前点或标需4 时据对计s出重对文9但1学成都最\n级化照会符输A广掩",
+  "history": [
+    {
+      "step": 1,
+      "train_loss": 4.9355
+    },
+    {
+      "step": 100,
+      "train_loss": 4.357
+    },
+    {
+      "step": 200,
+      "train_loss": 3.8521
+    },
+    {
+      "step": 300,
+      "train_loss": 3.4105
+    },
+    {
+      "step": 400,
+      "train_loss": 3.0453
+    },
+    {
+      "step": 500,
+      "train_loss": 2.7345
+    }
+  ]
+}
